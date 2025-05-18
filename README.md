@@ -8,4 +8,3 @@ GraphQL Subscription using Google PubSub
 docker run --rm -ti -p 8681:8681 -e PUBSUB_PROJECT1=graphql-subscription-291704,stuff:stuff-subscription messagebird/gcloud-pubsub-emulator:latest
 ```
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nDiscomfort is the currency of your dreams.\n🦖\n<!-- INSPIRATIONAL_QUOTE_END -->
