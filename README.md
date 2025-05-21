@@ -10,6 +10,6 @@ docker run --rm -ti -p 8681:8681 -e PUBSUB_PROJECT1=graphql-subscription-291704,
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🦄
+Discomfort is the currency of your dreams.
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
