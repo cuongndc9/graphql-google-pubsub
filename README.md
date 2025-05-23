@@ -11,5 +11,5 @@ docker run --rm -ti -p 8681:8681 -e PUBSUB_PROJECT1=graphql-subscription-291704,
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-🐶
+🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
