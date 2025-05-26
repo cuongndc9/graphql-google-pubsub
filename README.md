@@ -10,6 +10,6 @@ docker run --rm -ti -p 8681:8681 -e PUBSUB_PROJECT1=graphql-subscription-291704,
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🦄
+Stay curious. Keep learning. Keep growing.
+🧑‍💻,
 <!-- INSPIRATIONAL_QUOTE_END -->
