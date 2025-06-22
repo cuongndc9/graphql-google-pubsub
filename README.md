@@ -10,5 +10,5 @@ docker run --rm -ti -p 8681:8681 -e PUBSUB_PROJECT1=graphql-subscription-291704,
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> "The only way to do great work is to love what you do." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
