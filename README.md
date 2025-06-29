@@ -10,5 +10,5 @@ docker run --rm -ti -p 8681:8681 -e PUBSUB_PROJECT1=graphql-subscription-291704,
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
+> "Don't let yesterday take up too much of today." - Will Rogers
 <!-- INSPIRATIONAL_QUOTE_END -->
